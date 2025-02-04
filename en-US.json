@@ -170,10 +170,10 @@
 	"UNBOUND_VIEW_UPDATES": "Tap this to view the addons and update them",
 	"UNBOUND_WELCOME_SUBTITLE": "A Discord mobile client modification aimed at providing you with control, stability and customizability.",
 	"UNBOUND_WELCOME_TITLE": "Welcome to Unbound!",
-  "UNBOUND_SHORT_DESC_PLUGINS": "Add extra features or functionality to your Discord client.",
-  "UNBOUND_SHORT_DESC_THEMES": "Customize the appearance of your Discord interface.",
-  "UNBOUND_SHORT_DESC_ICONS": "Replace Discord's default icons with custom-designed ones.",
-  "UNBOUND_SHORT_DESC_FONTS": "Easily change the look and feel of the text in Discord.",
-  "UNBOUND_SHORT_DESC_SOURCES": "Collections of different addons you can download and use.",
-  "UNBOUND_CONTINUE_DISCOVER": "Continue to discover how to use Unbound to its fullest potential."
+	"UNBOUND_SHORT_DESC_PLUGINS": "Add extra features or functionality to your Discord client.",
+	"UNBOUND_SHORT_DESC_THEMES": "Customize the appearance of your Discord interface.",
+	"UNBOUND_SHORT_DESC_ICONS": "Replace Discord's default icons with custom-designed ones.",
+	"UNBOUND_SHORT_DESC_FONTS": "Easily change the look and feel of the text in Discord.",
+	"UNBOUND_SHORT_DESC_SOURCES": "Collections of different addons you can download and use.",
+	"UNBOUND_CONTINUE_DISCOVER": "Continue to discover how to use Unbound to its fullest potential."
 }
